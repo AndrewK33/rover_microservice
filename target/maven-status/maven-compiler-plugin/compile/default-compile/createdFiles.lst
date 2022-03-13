@@ -1,0 +1,7 @@
+ru/geekbrains/rover/config/RoverConfiguration.class
+ru/geekbrains/rover/dto/Planet.class
+ru/geekbrains/rover/service/ResearchService.class
+ru/geekbrains/rover/RoverApplication.class
+ru/geekbrains/rover/controller/DiscoveryController.class
+ru/geekbrains/rover/service/PlanetDiscoveryService.class
+ru/geekbrains/rover/controller/HealthController.class
